@@ -1,0 +1,50 @@
+# Environment variables and secrets
+.env
+*.env
+*.env.*
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+tutorial-env/
+
+# Logs
+logs/
+*.log
+
+# Local data
+volumes/
+data/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+.dockerignore
+
+# OS specific
+.DS_Store
+Thumbs.db

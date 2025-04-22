@@ -1,0 +1,14 @@
+fastapi>=0.100.0,<0.115.0
+uvicorn>=0.22.0
+python-dotenv>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.15
+langchain-core>=0.1.10
+pymilvus>=2.3.0
+atlassian-python-api>=4.0.0
+pydantic>=2.0.0
+openai>=1.6.0
+typing-extensions>=4.0.0
+coloredlogs>=15.0.1
+pytesseract>=0.3.10
